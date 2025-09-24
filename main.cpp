@@ -1,6 +1,7 @@
-#include <iostream>
-#include <fstream>
 #include <cstring>
+#include <fstream>
+#include <iostream>
+
 
 bool check_word(char* word, char* word_for_check) {
 
